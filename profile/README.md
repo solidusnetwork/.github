@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/solidusnetwork/solidus/main/brand/logos/solidus_icon.png" alt="Solidus Network" height="120" />
+  <img src="https://raw.githubusercontent.com/solidusnetwork/protocol/main/brand/logos/solidus_icon.png" alt="Solidus Network" height="120" />
 </p>
 
 <h3 align="center">Solidus Network</h3>
@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://www.solidus.network">Website</a> &middot;
-  <a href="https://github.com/solidusnetwork/solidus/blob/main/docs/whitepaper.md">Whitepaper</a> &middot;
-  <a href="https://github.com/solidusnetwork/solidus/blob/main/docs/protocol.md">Protocol Spec</a>
+  <a href="https://github.com/solidusnetwork/docs/blob/main/whitepaper.md">Whitepaper</a> &middot;
+  <a href="https://github.com/solidusnetwork/docs/blob/main/protocol.md">Protocol Spec</a>
 </p>
 
 ---
@@ -26,6 +26,10 @@
 
 | Repository | Description |
 |-----------|-------------|
-| [**solidus**](https://github.com/solidusnetwork/solidus) | Monorepo: protocol (Rust), apps (TypeScript), shared packages, docs |
+| [**protocol**](https://github.com/solidusnetwork/protocol) | Original blockchain — HotStuff BFT consensus, Rust, 85 tests |
+| [**sdk**](https://github.com/solidusnetwork/sdk) | TypeScript SDK — @solidus/auth, @solidus/sdk, @solidus/jwt |
+| [**docs**](https://github.com/solidusnetwork/docs) | Whitepaper, protocol spec, architecture, API reference |
+| [**verify**](https://github.com/solidusnetwork/verify) | KYC-as-a-Service — native document verification |
+| [**identity**](https://github.com/solidusnetwork/identity) | Self-sovereign identity — DIDs, credentials, OIDC bridge |
 
 <sub>Built with Rust, TypeScript, Ed25519, BLAKE3, BLS12-381, and a vision for sovereign identity.</sub>
