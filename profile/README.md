@@ -22,14 +22,14 @@
 **Key numbers:**
 - **~95% cheaper** than Sumsub-style per-verification KYC via reusable VCs
 - **~1.5s finality** via HotStuff BFT consensus
-- **7 products live** on testnet (16-product pipeline)
+- **9 products live** on testnet
 - **1B SOLID** fixed token supply (post-audit launch)
 
 | Repository | Description |
 |---|---|
 | [**protocol**](https://github.com/solidusnetwork/protocol) | Original blockchain — HotStuff BFT consensus in Rust |
 | [**sdk**](https://github.com/solidusnetwork/sdk) | TypeScript SDK — [`@solidus-network/sdk`](https://www.npmjs.com/package/@solidus-network/sdk) (plus `types`, `auth`, `bbs`) |
-| [**did-solidus-spec**](https://github.com/solidusnetwork/did-solidus-spec) | The `did:solidus` DID Method Specification (W3C registry pending) |
+| [**did-solidus-spec**](https://github.com/solidusnetwork/did-solidus-spec) | The `did:solidus` DID Method Specification — [registered in the W3C DID Method Registry](https://github.com/w3c/did-extensions/blob/main/methods/solidus.json) |
 
 **Products** — [Verify](https://verify.solidus.network) (KYC-as-a-Service — document verification + BBS+ issuance) &middot; [Identity](https://identity.solidus.network) (self-sovereign identity — DIDs, credentials, OIDC bridge). Source is not public.
 
