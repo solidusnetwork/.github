@@ -23,7 +23,7 @@
 - **~95% cheaper** than Sumsub-style per-verification KYC via reusable VCs
 - **~1.5s finality** via HotStuff BFT consensus
 - **9 products live** on testnet
-- **1B SOLID** fixed token supply (post-audit launch)
+- **1B SLDS** fixed supply — no token is distributed before an audited mainnet
 
 | Repository | Description |
 |---|---|
