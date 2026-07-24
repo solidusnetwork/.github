@@ -30,8 +30,8 @@
 | [**protocol**](https://github.com/solidusnetwork/protocol) | Original blockchain — HotStuff BFT consensus in Rust |
 | [**sdk**](https://github.com/solidusnetwork/sdk) | TypeScript SDK — [`@solidus-network/sdk`](https://www.npmjs.com/package/@solidus-network/sdk) (plus `types`, `auth`, `bbs`) |
 | [**did-solidus-spec**](https://github.com/solidusnetwork/did-solidus-spec) | The `did:solidus` DID Method Specification (W3C registry pending) |
-| [**verify**](https://github.com/solidusnetwork/verify) | KYC-as-a-Service — native document verification + BBS+ issuance |
-| [**identity**](https://github.com/solidusnetwork/identity) | Self-sovereign identity — DIDs, credentials, OIDC bridge |
+
+**Products** — [Verify](https://verify.solidus.network) (KYC-as-a-Service — document verification + BBS+ issuance) &middot; [Identity](https://identity.solidus.network) (self-sovereign identity — DIDs, credentials, OIDC bridge). Source is not public.
 
 Public docs at <https://docs.solidus.network>. Public testnet RPC at <https://rpc.solidus.network>.
 
